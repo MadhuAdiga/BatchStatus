@@ -1,5 +1,10 @@
 
     BODY {background: black}
+thead {
+background-color: black;
+font: white;
+font-weight: bold
+}
     A:link {color: #80FF00}
     A:visited {color: #FF00FF}
     H1 {font-size: 24pt; font-family: arial}
